@@ -8,9 +8,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # Handez
-[About me](https://handezvn.github.io/my-website/) <br/>
+[About me](https://drive.google.com/file/d/1KWteQ3b2uxJ-rHDokkaWBn-TwAkhH8ma/view?usp=sharing) <br/>
 ### Connect me via:
-1 .[Facebook](http://facebook.com/TA.Handez)</br>
-2 .[Email](mailto:handez1008@gmail.com)
+1.[Email](mailto:handez1008@gmail.com)
+2.[PhoneNumber] : +84 79 799 1707
 
 ### © 2021 by Handez | FPT University , HCMC
